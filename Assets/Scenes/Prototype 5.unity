@@ -757,6 +757,7 @@ MonoBehaviour:
   - {fileID: 5742291375927517304, guid: 42f6beb1571f24a849cffcd2d415cbfe, type: 3}
   - {fileID: 5719919598830438188, guid: ea681c23810f54679ae233095ee5228d, type: 3}
   - {fileID: 1536571512396469945, guid: 95ab2dbbb82ad4a99ad38922d6d5e82f, type: 3}
+  scoreText: {fileID: 422941885}
 --- !u!4 &1289295000
 Transform:
   m_ObjectHideFlags: 0
